@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TechTree Project**
 
-- 🌱 I’m currently learning **TypeScript, Next.js, Express.js** while working on my main project 🙂
+- 🌱 I’m currently learning **Three.js,  TypeScript, Next.js, Express.js** while working on my main project 🙂
 
 - 📫 How to reach me **stefan.dascalescu92@gmail.com**
 
